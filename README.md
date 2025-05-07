@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Gleisom]
+# 👋 Olá! Me chamo [Gleisom]
 
 🎯 Atualmente atuo como **Analista de Requisitos** no [Instituto Ayrton Senna](https://institutoayrtonsenna.org.br/) e estou me aprofundando em desenvolvimento Web Full-Stack.
 
