@@ -24,114 +24,53 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Analista de Produtos Digitais** no Instituto Ayrton Senna, com **3 anos** de experiência no ciclo de vida de produtos digitais. Mas não paro no backlog.
+Sou **Analista de Produtos Digitais** no **Instituto Ayrton Senna**, com **3 anos de experiência** no ciclo de vida completo de produtos digitais — da descoberta ao deploy.
 
-Formado em **Engenharia de Produção** e com domínio prático de desenvolvimento **Full-Stack** — entendo viabilidade técnica, participo de decisões de arquitetura e construo protótipos com IA generativa. Sou a ponte entre negócio e engenharia.
+Formado em **Engenharia de Produção** e com domínio prático de **desenvolvimento Full-Stack**, entendo viabilidade técnica, participo de decisões de arquitetura e construo protótipos com IA generativa. Sou a ponte entre negócio e engenharia.
 
 > *"Levantar requisitos é metade do caminho. A outra metade é saber construir."*
-
-<br/>
 
 ---
 
 ## 🚀 O que faço no dia a dia
 
-🤖 **Inovação com IA Generativa** — Idealizo e desenvolvo Assistentes de Gestão com IA usando Node.js + Vertex AI (Gemini), com foco em usabilidade para a linha de frente.
-
-📊 **Análise de Dados (SQL)** — Faço queries diretas no banco para extrair métricas que embasam priorização de features — zero intermediários.
-
-📋 **Discovery & Requisitos** — Converto dores de stakeholders em User Stories assertivas e lidero frentes de discovery técnico.
-
-🔍 **Validação & Viabilidade** — Participo na arquitetura de regras de negócio, realizo testes em homologação e valido deploys para produção.
-
-<br/>
+| Área | O que entrego |
+|---|---|
+| 🤖 **IA Generativa** | Idealizo e desenvolvo Assistentes de Gestão com Node.js + Vertex AI (Gemini), com foco em usabilidade para a linha de frente |
+| 📊 **Análise de Dados** | Queries SQL diretas no banco para extrair métricas que embasam priorização de features — zero intermediários |
+| 📋 **Discovery & Requisitos** | Converto dores de stakeholders em User Stories assertivas e lidero frentes de discovery técnico |
+| 🔍 **Validação & Viabilidade** | Participo na arquitetura de regras de negócio, realizo testes em homologação e valido deploys em produção |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Produto**
+**Produto & Gestão**
 
-![Scrum](https://img.shields.io/badge/Scrum%20%26%20Kanban-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Product Discovery](https://img.shields.io/badge/Product%20Discovery-FF6B6B?style=flat-square)
-![User Stories](https://img.shields.io/badge/User%20Stories%20%26%20PRDs-6C63FF?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 **Dados & Backend**
 
-![SQL](https://img.shields.io/badge/SQL%20Avançado-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/Pub%2FSub%20%26%20Filas-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Microserviços](https://img.shields.io/badge/Microserviços-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **IA & Frontend**
 
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI%20(Gemini)-4285F4?style=flat-square&logo=google&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Automação & DevOps**
 
-![n8n](https://img.shields.io/badge/n8n%20%26%20Webhooks-FF6F61?style=flat-square&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-<br/>
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🏢 Experiência
 
-```
-Instituto Ayrton Senna   →  Analista de Produtos Digitais   (Fev/2024 – Atual)
-Instituto Ayrton Senna   →  Estágio em Produtos Digitais    (Abr/2023 – Dez/2023)
-Softys                   →  Engenharia de Processos         (2019 – 2021)
-```
-
-<br/>
-
----
-
-## 🎓 Formação & Certificações
-
-**Formação Acadêmica**
-- 🎓 Engenharia de Produção — UNINOVE (2019–2023)
-- 📘 Técnico em Administração — ETEC (2016–2018)
-
-**Certificações**
-- 🏆 Product Camp 2025 · Conferência & Workshop
-- ✅ Product Discovery · Curso Livre
-- ✅ Product Management · Curso Livre
-- ✅ Engenharia de Requisitos · Especialização
-
-<br/>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gleison-Silva-02&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-**Quer construir algo juntos?**
-
-[![Portfólio](https://img.shields.io/badge/Acesse%20meu%20portfólio-000?style=for-the-badge&logo=vercel)](https://gleisom.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gleisom-silva-657642286)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
