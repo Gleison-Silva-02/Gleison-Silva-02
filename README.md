@@ -26,19 +26,28 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 
 ## 🧠 O que me diferencia
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   PRODUTO                    ╳               ENGENHARIA         │
-│                                                                 │
-│  • Discovery & Requisitos         • Node.js + Next.js           │
-│  • User Stories & PRDs            • Vertex AI (Gemini)          │
-│  • Priorização (SQL-driven)       • SQL Avançado                 │
-│  • Figma & Protótipos             • Pub/Sub & Microserviços      │
-│  • Scrum & Kanban                 • n8n & Automação              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<table width="100%">
+  <tr>
+    <td align="center" width="50%"><b>🗂️ PRODUTO</b></td>
+    <td align="center" width="50%"><b>⚙️ ENGENHARIA</b></td>
+  </tr>
+  <tr>
+    <td>
+      ✦ Discovery & Requisitos<br/>
+      ✦ User Stories & PRDs<br/>
+      ✦ Priorização (SQL-driven)<br/>
+      ✦ Figma & Protótipos<br/>
+      ✦ Scrum & Kanban
+    </td>
+    <td>
+      ✦ Node.js + Next.js<br/>
+      ✦ Vertex AI (Gemini)<br/>
+      ✦ SQL Avançado<br/>
+      ✦ Pub/Sub & Microserviços<br/>
+      ✦ n8n & Automação
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -85,16 +94,20 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 
 ## 💼 Trajetória
 
-```
-2024 → Atual   │  🏛️ Instituto Ayrton Senna — Analista de Produtos Digitais
-                │     IA Generativa · SQL · Discovery · Deploy · Arquitetura
-─────────────────┤
-2023 → 2024    │  🏛️ Instituto Ayrton Senna — Estágio em Produtos Digitais
-                │     PRDs · User Stories · Figma · Ritos Scrum
-─────────────────┤
-2019 → 2021    │  🏭 Softys — Engenharia de Processos (Jovem Aprendiz)
-                │     Métricas OEE · Melhoria de Processos Industriais
-```
+<table width="100%">
+  <tr>
+    <td nowrap><b>2024 → Atual</b></td>
+    <td>🏛️ <b>Instituto Ayrton Senna</b> — Analista de Produtos Digitais<br/><sub>IA Generativa · SQL · Discovery · Deploy · Arquitetura</sub></td>
+  </tr>
+  <tr>
+    <td nowrap><b>2023 → 2024</b></td>
+    <td>🏛️ <b>Instituto Ayrton Senna</b> — Estágio em Produtos Digitais<br/><sub>PRDs · User Stories · Figma · Ritos Scrum</sub></td>
+  </tr>
+  <tr>
+    <td nowrap><b>2019 → 2021</b></td>
+    <td>🏭 <b>Softys</b> — Engenharia de Processos (Jovem Aprendiz)<br/><sub>Métricas OEE · Melhoria de Processos Industriais</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -118,14 +131,14 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gleison-Silva-02&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gleison-Silva-02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
