@@ -43,7 +43,7 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
     <td align="center">
       ✦ Node.js + Next.js<br/>
       ✦ Vertex AI (Gemini)<br/>
-      ✦ SQL Avançado<br/>
+      ✦ SQL Intermediário<br/>
       ✦ Pub/Sub & Microserviços<br/>
       ✦ n8n & Automação
     </td>
