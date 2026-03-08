@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gleisom%20Silva&fontSize=52&fontColor=fff&fontAlignY=38&desc=Product%20Strategy%20%C3%97%20Technical%20Depth&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gleisom%20Silva&fontSize=52&fontColor=fff&fontAlignY=38&desc=Product%20Strategy%20%C3%97%20Technical%20Curiosity&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## 👋 Quem sou eu
 
-Sou **Analista de Produtos Digitais** no **Instituto Ayrton Senna** com **+3 anos** de experiência no ciclo completo de produtos digitais — do discovery ao deploy.
+Sou **Analista de Produtos Digitais** no **Instituto Ayrton Senna** com **+3 anos** de experiência em produtos digitais. Gerencio backlog, escrevo user stories, conduzo rituais ágeis e prototipo soluções com IA.
 
-Formado em **Engenharia de Produção**, combino visão sistêmica de processos com execução técnica real em **Full-Stack + IA Generativa**. Minha diferença não é só levantar requisitos: é entender a viabilidade técnica, participar da arquitetura e construir protótipos funcionais com Node.js, Next.js e Vertex AI (Gemini).
+Formado em **Engenharia de Produção**, combino visão sistêmica de processos com curiosidade genuína por tecnologia e **estudos em desenvolvimento + IA Generativa**. Minha diferença não é só levantar requisitos: é dialogar com o time de engenharia com propriedade e construir protótipos que validem hipóteses com Node.js, Next.js e Vertex AI (Gemini).
 
-> **Sou a ponte exata entre o problema de negócio e o software escalável.**
+> **Conecto a estratégia do produto à viabilidade técnica.**
 
 ---
 
@@ -30,7 +30,7 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 <table width="80%">
   <tr>
     <td align="center" width="50%"><b>🗂️ PRODUTO</b></td>
-    <td align="center" width="50%"><b>⚙️ ENGENHARIA</b></td>
+    <td align="center" width="50%"><b>⚙️ TECNOLOGIA</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -44,7 +44,7 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
       ✦ Node.js + Next.js<br/>
       ✦ Vertex AI (Gemini)<br/>
       ✦ SQL Intermediário<br/>
-      ✦ Pub/Sub & Microserviços<br/>
+      ✦ Pub/Sub & Filas<br/>
       ✦ n8n & Automação
     </td>
   </tr>
@@ -57,10 +57,10 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 
 | | O que faço | Impacto |
 |---|---|---|
-| 🤖 | Idealizo e escopo **Assistentes de Gestão com IA Generativa** (Node.js + Vertex AI) | Usabilidade para a linha de frente |
+| 🤖 | Colaboro na idealização e definição de escopos de **Assistentes de Gestão com IA Generativa** (Node.js + Vertex AI) | Usabilidade para a linha de frente |
 | 📊 | **Queries SQL diretas** no banco para extrair métricas de priorização | Decisões de backlog baseadas em dados reais |
-| 📋 | Converto dores de stakeholders em **User Stories assertivas** e lidero discovery técnico | Menos retrabalho, mais entrega de valor |
-| 🔍 | Participo na **arquitetura de regras de negócio**, testes em homologação e validação de deploys | Produto que chega certo em produção |
+| 📋 | Converto dores de stakeholders em **User Stories assertivas** e participo ativamente de discovery técnico | Menos retrabalho, mais entrega de valor |
+| 🔍 | **Valido regras de negócio**, testes em homologação e validação de deploys | Produto que chega certo em produção |
 | 🎨 | Prototipo em **Figma** como insumo visual para reduzir ambiguidade entre negócio e dev | Alinhamento mais rápido entre times |
 
 ---
@@ -100,7 +100,7 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 <table width="80%">
   <tr>
     <td nowrap align="center"><b>2024 → Atual</b></td>
-    <td>🏛️ <b>Instituto Ayrton Senna</b> — Analista de Produtos Digitais<br/><sub>IA Generativa · SQL · Discovery · Deploy · Arquitetura</sub></td>
+    <td>🏛️ <b>Instituto Ayrton Senna</b> — Analista de Produtos Digitais<br/><sub>IA Generativa · SQL · Discovery · Deploy</sub></td>
   </tr>
   <tr>
     <td nowrap align="center"><b>2023 → 2024</b></td>
@@ -143,7 +143,7 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 
 <div align="center">
 
-### Vamos construir algo juntos?
+### Vamos conversar?
 
 [![Ver Portfólio](https://img.shields.io/badge/⚡%20Ver%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gleisom.vercel.app/)
 [![Conectar no LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gleisom-silva-657642286)
