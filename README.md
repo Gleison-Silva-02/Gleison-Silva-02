@@ -73,4 +73,53 @@ Formado em **Engenharia de Produção** e com domínio prático de **desenvolvim
 ---
 
 ## 🏢 Experiência
+🏛️ Instituto Ayrton Senna → Analista de Produtos Digitais (Fev/2024 – Atual)
+🏛️ Instituto Ayrton Senna → Estágio em Produtos Digitais (Abr/2023 – Jan/2024)
+🏭 Softys → Engenharia de Processos (2019 – 2021)
+
+---
+
+## 🎓 Formação & Certificações
+
+**Acadêmica**
+
+- 🎓 **Engenharia de Produção** — UNINOVE (2019–2023)
+- 📘 **Técnico em Administração** — ETEC (2016–2018)
+
+**Certificações**
+
+- 🏆 Product Camp 2025 · Conferência & Workshop
+- ✅ Product Discovery · Curso Livre
+- ✅ Product Management · Curso Livre
+- ✅ Engenharia de Requisitos · Especialização
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Gleison-Silva-02&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <strong>Quer construir algo juntos?</strong><br/><br/>
+  <a href="https://gleisom.vercel.app/">
+    <img src="https://img.shields.io/badge/Ver%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gleisom-silva-657642286">
+    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
 
