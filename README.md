@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Sobre mim
 - 🎯 **Foco de Atuação:** Product Management, Discovery Técnico e Inovação com IA.
-- 💡 **No que acredito:** "Levantar requisitos é só a metade do caminho; gosto de construir protótipos funcionais com inteligência."
+- 💡 **No que acredito:** Levantar requisitos é só a metade do caminho; gosto de construir protótipos funcionais com inteligência.
 - 🏢 Atualmente construindo assistentes de IA e arquiteturas de dados no **Instituto Ayrton Senna**.
 - 🎓 Estudou **Engenharia de Produção** na UNINOVE.
 
