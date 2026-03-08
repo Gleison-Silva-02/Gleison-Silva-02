@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b8d4&height=220&section=header&text=Engenharia%20de%20Produto&fontSize=42&fontAlignY=38&desc=Gleisom%20Silva%20-%20Analista%20de%20Produtos%20Digitais&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=220&section=header&text=Engenharia%20de%20Produto&fontSize=42&fontAlignY=38&desc=Gleisom%20Silva%20-%20Analista%20de%20Produtos%20Digitais&descAlignY=55&descAlign=50" />
 </div>
 
 <h3 align="center">Unindo visão sistêmica de negócios com desenvolvimento de software de alta performance.</h3>
@@ -22,7 +22,7 @@
 - 🎯 **Foco de Atuação:** Product Management, Discovery Técnico e Inovação com IA.
 - 💡 **No que acredito:** "Levantar requisitos é só a metade do caminho; gosto de construir protótipos funcionais com inteligência."
 - 🏢 Atualmente construindo assistentes de IA e arquiteturas de dados no **Instituto Ayrton Senna**.
-- 🎓 Estudou **Engenharia de Produção**.
+- 🎓 Estudou **Engenharia de Produção** na UNINOVE.
 
 ### 🚀 Hard Skills & Stack Principal
 
@@ -39,6 +39,6 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=6&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=6&theme=onedark"/>
 </div>
