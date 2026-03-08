@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b8d4&height=200&section=header&text=Estratégia%20de%20Produto%20%26%20Profundidade%20Técnica&fontSize=30&fontAlignY=38&desc=Gleisom%20Silva%20%7C%20Analista%20de%20Produto%20Digital&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b8d4&height=220&section=header&text=Engenharia%20de%20Produto&fontSize=42&fontAlignY=38&desc=Gleisom%20Silva%20-%20Analista%20de%20Produtos%20Digitais&descAlignY=55&descAlign=50" />
 </div>
 
 <h3 align="center">Unindo visão sistêmica de negócios com desenvolvimento de software de alta performance.</h3>
@@ -39,6 +39,6 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=6&theme=omni"/>
 </div>
