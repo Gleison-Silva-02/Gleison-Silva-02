@@ -1,58 +1,44 @@
-# 👋 Olá! Me chamo [Gleisom]
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b8d4&height=200&section=header&text=Estratégia%20de%20Produto%20%26%20Profundidade%20Técnica&fontSize=30&fontAlignY=38&desc=Gleisom%20Silva%20%7C%20Analista%20de%20Produto%20Digital&descAlignY=55&descAlign=50" />
+</div>
 
-🎯 Atualmente atuo como **Analista de Requisitos** no [Instituto Ayrton Senna](https://institutoayrtonsenna.org.br/) e estou me aprofundando em desenvolvimento Web Full-Stack.
+<h3 align="center">Unindo visão sistêmica de negócios com desenvolvimento de software de alta performance.</h3>
 
----
+<div align="center">
+  <a href="https://gleisom.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://linkedin.com/in/gleisom-silva-657642286" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gleisonepic@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-## 🚀 Formação Full Stack JavaScript
+<br />
 
-Estou fazendo a **Formação Full Stack JavaScript** na [OneBitCode](https://www.onebitcode.com/javascript) (766 aulas • 171h39min), onde vou aprender:
+### 👨‍💻 Sobre mim
+- 🎯 **Foco de Atuação:** Product Management, Discovery Técnico e Inovação com IA.
+- 💡 **No que acredito:** "Levantar requisitos é só a metade do caminho; gosto de construir protótipos funcionais com inteligência."
+- 🏢 Atualmente construindo assistentes de IA e arquiteturas de dados no **Instituto Ayrton Senna**.
+- 🎓 Estudou **Engenharia de Produção** na UNINOVE.
 
-<details>
-<summary>📕 Fundamentos (56h31min)</summary>
+### 🚀 Hard Skills & Stack Principal
 
-- **Preparando seu setup**: Node.js, Terminal, Editor, Browser DevTools  
-- **HTML5**: semântica, formulários, acessibilidade, responsividade  
-- **CSS3**: Box Model, Flexbox, seletores, variáveis, boas práticas  
-- **JavaScript I–VI**: tipos, estruturas, funções, DOM, ES6+, módulos, POO, assíncrono, fetch/API  
-- **TypeScript**: tipos, interfaces, generics, decorators  
-- **Git & GitHub**: fluxo de trabalho, branches, conflitos, repositórios remotos  
-</details>
-
-<details>
-<summary>💻 Back-end (48h29min)</summary>
-
-- **Node.js**: event loop, filesystem, streams  
-- **Express.js**: rotas, middlewares, APIs RESTful, autenticação (JWT)  
-- **PostgreSQL**: modelagem, DDL/DML, relacionamentos, backup/restauração  
-- **Prisma ORM**: schema, migrations, queries, relações, repositórios  
-</details>
-
-<details>
-<summary>🎨 Front-end (35h38min)</summary>
-
-- **CSS Moderno**: Flexbox, Grid, Media Queries  
-- **Bootstrap & Sass**: componentes, customização, grid system  
-- **React**: JSX, componentes, hooks (useState, useEffect, useContext), roteamento (react-router), SPA  
-- **React + TypeScript**: projeto Kanban  
-- **Next.js**: rotas, layouts, data fetching, otimizações, server actions  
-</details>
-
-<details>
-<summary>🧩 Projetos Práticos (31h1min)</summary>
-
-- **EAD inspirado no Netflix** (AdminJS, Sequelize, API, autenticação, frontend responsivo…)  
-- **Agente IA com NodeJS + OpenAI**  
-- **Controlador de Música com Electron**  
-</details>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6F61?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Como me encontrar
-
-- 🔗 [LinkedIn](https://linkedin.com/in/gleisom-silva-657642286/)   
-- 📧 [E-mail](gleisonepic@gmail.com)
-
----
-
-> _Este README está sempre em atualização conforme avanço no curso!_ 🚧  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=7&theme=radical"/>
+</div>
