@@ -37,8 +37,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=6&theme=onedark"/>
-</div>
