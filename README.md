@@ -70,7 +70,7 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 **Produto & Gestão**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Monday](https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge&logo=monday&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
