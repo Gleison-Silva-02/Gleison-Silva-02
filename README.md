@@ -26,20 +26,21 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 
 ## 🧠 O que me diferencia
 
-<table width="100%">
+<div align="center">
+<table width="80%">
   <tr>
     <td align="center" width="50%"><b>🗂️ PRODUTO</b></td>
     <td align="center" width="50%"><b>⚙️ ENGENHARIA</b></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       ✦ Discovery & Requisitos<br/>
       ✦ User Stories & PRDs<br/>
       ✦ Priorização (SQL-driven)<br/>
       ✦ Figma & Protótipos<br/>
       ✦ Scrum & Kanban
     </td>
-    <td>
+    <td align="center">
       ✦ Node.js + Next.js<br/>
       ✦ Vertex AI (Gemini)<br/>
       ✦ SQL Avançado<br/>
@@ -48,6 +49,7 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -94,20 +96,22 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 
 ## 💼 Trajetória
 
-<table width="100%">
+<div align="center">
+<table width="80%">
   <tr>
-    <td nowrap><b>2024 → Atual</b></td>
+    <td nowrap align="center"><b>2024 → Atual</b></td>
     <td>🏛️ <b>Instituto Ayrton Senna</b> — Analista de Produtos Digitais<br/><sub>IA Generativa · SQL · Discovery · Deploy · Arquitetura</sub></td>
   </tr>
   <tr>
-    <td nowrap><b>2023 → 2024</b></td>
+    <td nowrap align="center"><b>2023 → 2024</b></td>
     <td>🏛️ <b>Instituto Ayrton Senna</b> — Estágio em Produtos Digitais<br/><sub>PRDs · User Stories · Figma · Ritos Scrum</sub></td>
   </tr>
   <tr>
-    <td nowrap><b>2019 → 2021</b></td>
+    <td nowrap align="center"><b>2019 → 2021</b></td>
     <td>🏭 <b>Softys</b> — Engenharia de Processos (Jovem Aprendiz)<br/><sub>Métricas OEE · Melhoria de Processos Industriais</sub></td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -131,8 +135,8 @@ Formado em **Engenharia de Produção**, combino visão sistêmica de processos 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
 </div>
 
