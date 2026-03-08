@@ -1,45 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gleisom%20Silva&fontSize=56&fontColor=fff&fontAlignY=42&desc=Product%20Strategy%20%26%20Technical%20Depth&descAlignY=60&descAlign=50&descSize=18" />
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gleisom%20Silva&fontSize=52&fontColor=fff&fontAlignY=38&desc=Product%20Strategy%20%C3%97%20Technical%20Depth&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
+
+</div>
 
 <div align="center">
-  <a href="https://gleisom.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/⚡%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/gleisom-silva-657642286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:gleisonepic@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/⚡%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gleisom.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gleisom-silva-657642286)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleisonepic@gmail.com)
+
 </div>
 
-<br/>
+---
+
+## 👋 Quem sou eu
+
+Sou **Analista de Produtos Digitais** no **Instituto Ayrton Senna** com **+3 anos** de experiência no ciclo completo de produtos digitais — do discovery ao deploy.
+
+Formado em **Engenharia de Produção**, combino visão sistêmica de processos com execução técnica real em **Full-Stack + IA Generativa**. Minha diferença não é só levantar requisitos: é entender a viabilidade técnica, participar da arquitetura e construir protótipos funcionais com Node.js, Next.js e Vertex AI (Gemini).
+
+> **Sou a ponte exata entre o problema de negócio e o software escalável.**
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧠 O que me diferencia
 
-Sou **Analista de Produtos Digitais** no **Instituto Ayrton Senna**, com **3 anos de experiência** no ciclo de vida completo de produtos digitais — da descoberta ao deploy.
-
-Formado em **Engenharia de Produção** e com domínio prático de **desenvolvimento Full-Stack**, entendo viabilidade técnica, participo de decisões de arquitetura e construo protótipos com IA generativa. Sou a ponte entre negócio e engenharia.
-
-> *"Levantar requisitos é metade do caminho. A outra metade é saber construir."*
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   PRODUTO                    ╳               ENGENHARIA         │
+│                                                                 │
+│  • Discovery & Requisitos         • Node.js + Next.js           │
+│  • User Stories & PRDs            • Vertex AI (Gemini)          │
+│  • Priorização (SQL-driven)       • SQL Avançado                 │
+│  • Figma & Protótipos             • Pub/Sub & Microserviços      │
+│  • Scrum & Kanban                 • n8n & Automação              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🚀 O que faço no dia a dia
+## 🚀 No dia a dia, entrego
 
-| Área | O que entrego |
-|---|---|
-| 🤖 **IA Generativa** | Idealizo e desenvolvo Assistentes de Gestão com Node.js + Vertex AI (Gemini), com foco em usabilidade para a linha de frente |
-| 📊 **Análise de Dados** | Queries SQL diretas no banco para extrair métricas que embasam priorização de features — zero intermediários |
-| 📋 **Discovery & Requisitos** | Converto dores de stakeholders em User Stories assertivas e lidero frentes de discovery técnico |
-| 🔍 **Validação & Viabilidade** | Participo na arquitetura de regras de negócio, realizo testes em homologação e valido deploys em produção |
+| | O que faço | Impacto |
+|---|---|---|
+| 🤖 | Idealizo e escopo **Assistentes de Gestão com IA Generativa** (Node.js + Vertex AI) | Usabilidade para a linha de frente |
+| 📊 | **Queries SQL diretas** no banco para extrair métricas de priorização | Decisões de backlog baseadas em dados reais |
+| 📋 | Converto dores de stakeholders em **User Stories assertivas** e lidero discovery técnico | Menos retrabalho, mais entrega de valor |
+| 🔍 | Participo na **arquitetura de regras de negócio**, testes em homologação e validação de deploys | Produto que chega certo em produção |
+| 🎨 | Prototipo em **Figma** como insumo visual para reduzir ambiguidade entre negócio e dev | Alinhamento mais rápido entre times |
 
 ---
 
@@ -47,35 +58,43 @@ Formado em **Engenharia de Produção** e com domínio prático de **desenvolvim
 
 **Produto & Gestão**
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-**Dados & Backend**
+**Backend & Dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Avançado-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**IA & Frontend**
+**Frontend & IA**
 
-![Google Cloud](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI%20(Gemini)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**Automação & DevOps**
+**DevOps & Infra**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🏢 Experiência
-🏛️ Instituto Ayrton Senna → Analista de Produtos Digitais (Fev/2024 – Atual)
-🏛️ Instituto Ayrton Senna → Estágio em Produtos Digitais (Abr/2023 – Jan/2024)
-🏭 Softys → Engenharia de Processos (2019 – 2021)
+## 💼 Trajetória
+
+```
+2024 → Atual   │  🏛️ Instituto Ayrton Senna — Analista de Produtos Digitais
+                │     IA Generativa · SQL · Discovery · Deploy · Arquitetura
+─────────────────┤
+2023 → 2024    │  🏛️ Instituto Ayrton Senna — Estágio em Produtos Digitais
+                │     PRDs · User Stories · Figma · Ritos Scrum
+─────────────────┤
+2019 → 2021    │  🏭 Softys — Engenharia de Processos (Jovem Aprendiz)
+                │     Métricas OEE · Melhoria de Processos Industriais
+```
 
 ---
 
@@ -88,38 +107,37 @@ Formado em **Engenharia de Produção** e com domínio prático de **desenvolvim
 
 **Certificações**
 
-- 🏆 Product Camp 2025 · Conferência & Workshop
-- ✅ Product Discovery · Curso Livre
-- ✅ Product Management · Curso Livre
-- ✅ Engenharia de Requisitos · Especialização
+- 🏆 **Product Camp 2025** — Conferência & Workshop
+- ✅ **Product Discovery** — Curso Livre
+- ✅ **Product Management** — Curso Livre
+- ✅ **Engenharia de Requisitos** — Especialização
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gleison-Silva-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-Silva-02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gleison-Silva-02&theme=tokyonight&hide_border=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gleison-Silva-02&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
 <div align="center">
-  <strong>Quer construir algo juntos?</strong><br/><br/>
-  <a href="https://gleisom.vercel.app/">
-    <img src="https://img.shields.io/badge/Ver%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/gleisom-silva-657642286">
-    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
+### Vamos construir algo juntos?
 
+[![Ver Portfólio](https://img.shields.io/badge/⚡%20Ver%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gleisom.vercel.app/)
+[![Conectar no LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gleisom-silva-657642286)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
